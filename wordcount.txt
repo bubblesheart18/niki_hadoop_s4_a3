@@ -1,0 +1,3 @@
+Hadoop is awesome. It is used to manage large files.
+It uses distributed file system.
+Map reduce is fundamental concept of hadoop.
